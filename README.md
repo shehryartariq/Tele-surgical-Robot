@@ -1,5 +1,5 @@
 # Tele-surgical-Robot
-This Project throws some light on the first ever prototype of Tele-Surgical Robot developed at SEECS NUST. Tele-Surgical Robotics is a new concept and a lot of research is being done around the world in this field.
+This Project is the first ever prototype of Tele-Surgical Robot developed at SEECS NUST. Tele-Surgical Robotics is a new concept and a lot of research is being done around the world in this field.
 Main domains of Tele-surgical robotics in which work can be done are: 
 Embedded Systems
 Control Systems
